@@ -1,11 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on ...ds
-- 🌱 I’m currently learning ...sdf
-- 👯 I’m looking to collaborate on ...sdf
-- 🤔 I’m looking for help with ...sdf
-- 💬 Ask me about ...sdf
-- 📫 How to reach me: ...sdf
-- 😄 Pronouns: ...sdf
-- ⚡ Fun fact: ...sdf
+I'm Albert from Spain. I'm currently studying a physics degree in Barcelona and I really enjoyed the computer science course with python so I decided to learn more by myself. I'll publish some of my projects during my journey of learning python.
+
 
